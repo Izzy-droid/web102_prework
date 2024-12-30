@@ -24,9 +24,11 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Web102](https://github.com/user-attachments/assets/18d34254-8e21-412d-be23-26c5ca0fc3e9)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -35,6 +37,9 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+-I struggled with the DOM aspect mainly, learning tetiary operator in challenege 6 and filter and reduce in challenege 5 and 4.
+-innerHTML also took me a while to understand and what exactly you could put into it.
 
 ## License
 
